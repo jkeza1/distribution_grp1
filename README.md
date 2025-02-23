@@ -27,5 +27,7 @@ I tried using a for loop initially to understand the computation of the gradient
 
 Insights Gained:
 -Joan Keza
+
+
 when doing this task I explored normal distribution and its connection to Bayesian inference. Many natural phenomena, such as height, test scores, and errors in measurements, follow a normal distribution. Understanding this helped in visualizing probability updates when applying Bayes’ theorem to normally distributed data. The connection between gradient descent and Bayesian inference became clear when I realized that Scipy optimizations adjust learning rates automatically, much like how Bayesian updates refine probabilities based on incoming data. Through research, I found that Bayesian inference is preferred because it systematically refines probabilities rather than making static assumptions. This also helped me gain a lot because my group members were able to explain everything which made it easy and understandable
 
