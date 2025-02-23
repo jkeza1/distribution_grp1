@@ -13,3 +13,10 @@
 - 6b58da0 feat:bayesian (Keza, 2025-02-23)
 - fb68c56 setting up probability data and importing numpy package (buwituze, 2025-02-23)
 - 8308092 Initial commit (Keza, 2025-02-23)
+
+Insights Gained:
+-Tanguy Kwizera
+
+Throughout this task, I enhanced my comprehension of Normal Distribution, discovering how the mean and standard deviation influence the curve. I also acquired knowledge of Bayesian Probability, observing how evidence modifies earlier assumptions. Executing Gradient Descent illuminated the process of optimizing model parameters across iterations. Working with my group improved my collaboration and ability to solve problems. In general, this experience successfully linked theoretical concepts with hands-on coding. 😊🚀 
+
+
